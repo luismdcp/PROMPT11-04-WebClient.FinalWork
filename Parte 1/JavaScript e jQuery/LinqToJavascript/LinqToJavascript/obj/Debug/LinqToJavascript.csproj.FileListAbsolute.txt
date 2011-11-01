@@ -1,0 +1,5 @@
+C:\Users\BlackBeauty\WebstormProjects\untitled\LinqToJavascript\LinqToJavascript\LinqToJavascript\bin\LinqToJavascript.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\LinqToJavascript\LinqToJavascript\LinqToJavascript\bin\LinqToJavascript.pdb
+C:\Users\BlackBeauty\WebstormProjects\untitled\LinqToJavascript\LinqToJavascript\LinqToJavascript\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BlackBeauty\WebstormProjects\untitled\LinqToJavascript\LinqToJavascript\LinqToJavascript\obj\Debug\LinqToJavascript.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\LinqToJavascript\LinqToJavascript\LinqToJavascript\obj\Debug\LinqToJavascript.pdb

@@ -1,0 +1,275 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="630B2AFD-0689-4CA2-AFE2-FA54863049E7/f:IoC.cs" caret="1097" fromTop="20" />
+      <File id="630B2AFD-0689-4CA2-AFE2-FA54863049E7/f:AppStart_StructureMap.cs" caret="0" fromTop="0" />
+      <File id="9A388A6C-EE80-4A5F-AF87-5A5A43610E9F/d:Services/f:IDrawingsService.cs" caret="136" fromTop="4" />
+      <File id="9A388A6C-EE80-4A5F-AF87-5A5A43610E9F/d:ServicesRepositoryInterfaces/f:IDrawingsRepository.cs" caret="62" fromTop="2" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/f:_ViewStart.cshtml" caret="0" fromTop="0" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Scripts/f:Canvas.js" caret="376" fromTop="12" />
+      <File id="9A388A6C-EE80-4A5F-AF87-5A5A43610E9F/d:Entities/f:Drawing.cs" caret="27" fromTop="2" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Content/f:Site.css" caret="0" fromTop="0" />
+      <File id="630B2AFD-0689-4CA2-AFE2-FA54863049E7/f:SmDependencyResolver.cs" caret="455" fromTop="18" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Content/f:StackStyle.css" caret="140" fromTop="13" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Home/f:Filter.cshtml" caret="113" fromTop="6" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Stack.cshtml" caret="0" fromTop="0" />
+      <File id="D2D02DDB-1C83-4B02-9151-4A3265A64B22/f:DrawingsMemoryRepository.cs" caret="1019" fromTop="32" />
+      <File id="237D755D-A97D-42F8-92ED-5FBBDFC079BC/f:IRepository.cs" caret="263" fromTop="8" />
+      <File id="9A388A6C-EE80-4A5F-AF87-5A5A43610E9F/d:Services/f:IService.cs" caret="242" fromTop="8" />
+      <File id="9A388A6C-EE80-4A5F-AF87-5A5A43610E9F/d:ServicesImplementation/f:DrawingsService.cs" caret="628" fromTop="4" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Home/f:Publish.cshtml" caret="159" fromTop="6" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Home/f:Top.cshtml" caret="103" fromTop="3" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_AllOrFiltered.cshtml" caret="104" fromTop="2" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Controllers/f:HomeController.cs" caret="2990" fromTop="22" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="926" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_AllOrFiltered.cshtml" caret="64" fromTop="2" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Home/f:Filter.cshtml" caret="142" fromTop="6" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Home/f:Index.cshtml" caret="141" fromTop="6" />
+      <File id="237D755D-A97D-42F8-92ED-5FBBDFC079BC/f:IRepository.cs" caret="263" fromTop="8" />
+      <File id="D2D02DDB-1C83-4B02-9151-4A3265A64B22/f:DrawingsMemoryRepository.cs" caret="249" fromTop="7" />
+      <File id="D2D02DDB-1C83-4B02-9151-4A3265A64B22/f:DrawingsMemoryRepository.cs" caret="1118" fromTop="34" />
+      <File id="9A388A6C-EE80-4A5F-AF87-5A5A43610E9F/d:Services/f:IService.cs" caret="242" fromTop="8" />
+      <File id="9A388A6C-EE80-4A5F-AF87-5A5A43610E9F/d:ServicesImplementation/f:DrawingsService.cs" caret="272" fromTop="7" />
+      <File id="9A388A6C-EE80-4A5F-AF87-5A5A43610E9F/d:ServicesImplementation/f:DrawingsService.cs" caret="1187" fromTop="23" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Controllers/f:HomeController.cs" caret="3394" fromTop="37" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Home/f:Top.cshtml" caret="0" fromTop="0" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Home/f:Top.cshtml" caret="103" fromTop="3" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="2587" fromTop="31" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Controllers/f:HomeController.cs" caret="3302" fromTop="39" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Controllers/f:HomeController.cs" caret="3351" fromTop="33" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Controllers/f:HomeController.cs" caret="2943" fromTop="25" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Controllers/f:HomeController.cs" caret="2943" fromTop="25" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Controllers/f:HomeController.cs" caret="3079" fromTop="14" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_AllOrFiltered.cshtml" caret="104" fromTop="2" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="2587" fromTop="28" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="2587" fromTop="34" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="2587" fromTop="31" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="1198" fromTop="25" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="1341" fromTop="15" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="2495" fromTop="24" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="1102" fromTop="27" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="1102" fromTop="21" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="674" fromTop="10" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="2631" fromTop="38" />
+      <File id="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E/d:Views/d:Shared/f:_Layout.cshtml" caret="2631" fromTop="37" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="Url" priority="7" />
+      <Item value="Html" priority="41" />
+      <Item value="using" priority="33" />
+      <Item value="Model" priority="7" />
+      <Item value="foreach" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Url" priority="29" />
+      <Item value="Html" priority="180" />
+      <Item value="PicUploader" priority="30" />
+      <Item value="prop" priority="191" />
+      <Item value="string" priority="376" />
+      <Item value="DateTime`0" priority="125" />
+      <Item value="buffer" priority="63" />
+      <Item value="div" priority="59" />
+      <Item value="ctor" priority="159" />
+      <Item value="IService" priority="31" />
+      <Item value="Draw`0" priority="30" />
+      <Item value="Draws" priority="32" />
+      <Item value="this" priority="415" />
+      <Item value="new" priority="255" />
+      <Item value="List&lt;Draw&gt;" priority="28" />
+      <Item value="return" priority="191" />
+      <Item value="entity" priority="31" />
+      <Item value="interface" priority="30" />
+      <Item value="_drawingsRepository" priority="32" />
+      <Item value="drawingsRepository" priority="31" />
+      <Item value="newEntity" priority="31" />
+      <Item value="using" priority="182" />
+      <Item value="DependencyResolution" priority="30" />
+      <Item value="AppStart_StructureMap`0" priority="26" />
+      <Item value="drawingsService" priority="64" />
+      <Item value="#region" priority="31" />
+      <Item value="Drawing" priority="28" />
+      <Item value="TryUpdateModel`1" priority="31" />
+      <Item value="newDrawing" priority="191" />
+      <Item value="base64String" priority="94" />
+      <Item value="ViewBag" priority="127" />
+      <Item value="var" priority="159" />
+      <Item value="List" priority="29" />
+      <Item value="categories" priority="63" />
+      <Item value="ListDictionary" priority="29" />
+      <Item value="stream" priority="63" />
+      <Item value="file" priority="31" />
+      <Item value="else" priority="95" />
+      <Item value="if" priority="159" />
+      <Item value="String`0" priority="63" />
+      <Item value="imageBase64String" priority="31" />
+      <Item value="Model" priority="61" />
+      <Item value="foreach" priority="29" />
+      <Item value="in" priority="31" />
+      <Item value="System" priority="30" />
+      <Item value="Linq" priority="26" />
+      <Item value="public" priority="31" />
+      <Item value="static" priority="31" />
+      <Item value="IQueryable" priority="63" />
+      <Item value="DrawsBuffer" priority="63" />
+      <Item value="d" priority="31" />
+      <Item value="title" priority="63" />
+      <Item value="TitleFilter" priority="61" />
+      <Item value="Redirect`0" priority="31" />
+      <Item value="RedirectToAction`0" priority="31" />
+      <Item value="ICollection" priority="31" />
+      <Item value="model" priority="31" />
+      <Item value="TEntity`0" priority="31" />
+      <Item value="int" priority="31" />
+      <Item value="FilterTop" priority="62" />
+      <Item value="Ajax" priority="31" />
+      <Item value="AjaxOptions" priority="57" />
+      <Item value="UpdateTargetId" priority="31" />
+      <Item value="FormMethod`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="div" priority="39" />
+      <Item value="h3" priority="11" />
+      <Item value="class" priority="5" />
+      <Item value="id" priority="29" />
+      <Item value="name" priority="11" />
+      <Item value="p" priority="5" />
+      <Item value="creationDate" priority="6" />
+      <Item value="nguid" priority="5" />
+      <Item value="span16" priority="5" />
+      <Item value="span2" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="ActionLink`0" priority="81" />
+      <Item value="DropDownList`0" priority="26" />
+      <Item value="Hidden`0" priority="26" />
+      <Item value="TextArea`0" priority="26" />
+      <Item value="Partial`0" priority="53" />
+      <Item value="BeginForm`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpPostedFileBase">
+      <Item value="InputStream" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RepositoriesImplementation.DrawsMemoryRepository">
+      <Item value="DrawsBuffer" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="AsQueryable`1" priority="26" />
+      <Item value="Add`0" priority="26" />
+      <Item value="Where`1" priority="26" />
+      <Item value="Take`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PicUploader.DomainModel.ServicesImplementation.DrawingsService">
+      <Item value="drawingsRepository" priority="107" />
+      <Item value="_drawingsRepository" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PicUploader.DomainModel.ServicesRepositoryInterfaces.IDrawingsRepository">
+      <Item value="GetAll`0" priority="26" />
+      <Item value="Add`0" priority="26" />
+      <Item value="GetAllFilteredBy`0" priority="26" />
+      <Item value="GetTop`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PicUploader.Controllers.HomeController">
+      <Item value="drawingsService" priority="53" />
+      <Item value="_drawingsService" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PicUploader.DomainModel.Entities.Drawing">
+      <Item value="Base64Content" priority="49" />
+      <Item value="CreationDate" priority="49" />
+      <Item value="LastUpdate" priority="49" />
+      <Item value="DrawCategory" priority="26" />
+      <Item value="Title" priority="49" />
+      <Item value="Author" priority="22" />
+      <Item value="Category" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.SelectList">
+      <Item value="SelectedValue" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Position" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="clearCanvas" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="display" priority="5" />
+      <Item value="visibility" priority="5" />
+      <Item value="hidden" priority="4" />
+      <Item value="imageBase64String" priority="4" />
+      <Item value="visible" priority="4" />
+      <Item value="collapse" priority="6" />
+      <Item value="width" priority="17" />
+      <Item value="height" priority="17" />
+      <Item value="overflow-style" priority="5" />
+      <Item value="auto" priority="4" />
+      <Item value="dateModified" priority="4" />
+      <Item value="thumbnail" priority="9" />
+      <Item value="margin-top" priority="5" />
+      <Item value="top" priority="11" />
+      <Item value="max-width" priority="5" />
+      <Item value="max-height" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="107" />
+      <Item value="Format`0" priority="26" />
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PicUploader.DomainModel.Services.IDrawingsService">
+      <Item value="Add`0" priority="26" />
+      <Item value="GetAll`0" priority="26" />
+      <Item value="GetAllFilteredBy`0" priority="26" />
+      <Item value="GetTop`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToList`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="AsQueryable`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="26" />
+      <Item value="HasValue" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.AjaxHelper`1">
+      <Item value="BeginForm`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequestBase">
+      <Item value="IsAjaxRequest`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.FormMethod">
+      <Item value="Post" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

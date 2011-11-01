@@ -1,0 +1,34 @@
+﻿@model ICollection<PicUploader.DomainModel.Entities.Drawing>
+           
+    @foreach (var drawing in Model)
+    {
+        <section class="drawingContainer" itemscope itemtype="schema.org/ImageObject"> 
+            <div class="thumbnail">
+                <img src='@(drawing.Base64Content)' itemprop="image" />
+            </div>
+
+            <div class="metadata">
+                <h4 itemprop="name">@drawing.Title</h4>
+
+                <div class="author" itemscope itemtype="http://schema.org/People">
+                    <span class="label">Author:</span>
+                    <span itemprop="author">@drawing.Author</span>
+                </div>
+
+                <div class="datePublished" itemprop="datePublished">
+                    <span class="label">Date Published:</span>
+                    <time datetime="PT" itemprop="datePublished">@drawing.CreationDate</time>
+                </div>
+
+                <div class="dateModified" itemprop="dateModified">
+                    <span class="label">Last Modified:</span>
+                    <time datetime="PT" itemprop="dateModified">@drawing.LastUpdate</time>
+                </div>
+
+                <div class="categories">
+                    <span class="label">Category:</span>
+                    <span itemprop="genre">@drawing.Category</span>
+                </div>
+            </div>
+        </section>       
+    }

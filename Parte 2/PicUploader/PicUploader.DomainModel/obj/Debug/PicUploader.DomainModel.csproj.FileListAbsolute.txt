@@ -1,0 +1,7 @@
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader.DomainModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader.DomainModel\bin\Debug\PicUploader.DomainModel.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader.DomainModel\bin\Debug\PicUploader.DomainModel.pdb
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader.DomainModel\obj\Debug\PicUploader.DomainModel.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader.DomainModel\obj\Debug\PicUploader.DomainModel.pdb
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader.DomainModel\bin\Debug\Repositories.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader.DomainModel\bin\Debug\Repositories.pdb

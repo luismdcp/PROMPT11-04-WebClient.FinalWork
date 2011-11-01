@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel=StyleSheet href="StackStyle.css" type="text/css">
+        <link rel=StyleSheet href="FormStyle.css" type="text/css" />
+        <script type="text/javascript" src="form.js"></script>
+        <title>Movies Form</title>
+    </head>
+    <body>
+        <div class="container">
+            <form class="form" onsubmit="return false;">
+
+                <div class="field">
+                    <label for="title">Title:</label>
+                    <input type="text" name="title" id="title" placeholder="Movie Title" autofocus required />
+                </div>
+
+                <div class="field">
+                    <label for="duration">Duration:</label>
+                    <input type="number" name="duration" id="duration" min="1" max="300" required />
+                </div>
+
+                <div class="contentRatingSelect">
+                    <label for="rating">Content Rating</label>
+                    <select id="rating">
+                        <option value="G">G</option>
+                        <option value="PG">PG</option>
+                        <option value="PG-13">PG-13</option>
+                        <option value="R">R</option>
+                        <option value="NC-17">NC-17</option>
+                        <option value="M">M</option>
+                    </select>
+                </div>
+                
+                <div class="field">
+                    <label for="categories">Categories:</label>
+                    <input type="text" name="categories" id="categories" placeholder="List of Categories separated by ," required />
+                </div>
+
+                <div class="field">
+                    <label for="director">Director:</label>
+                    <input type="text" name="director" id="director" placeholder="Director" required />
+                </div>
+
+                <div class="text">
+                    <label for="actors">Actors:</label>
+                    <textarea name="text" id="actors" placeholder="List of Actors separated by ," required></textarea>
+                </div>
+
+                <div class="field">
+                    <label for="ratingStars">Rating Stars (1 to 10):</label>
+                    <input type="range" name="ratingStars" id="ratingStars" min="1" max="10" step="1" required />
+                </div>
+
+                <div class="field">
+                    <label for="reviews">Reviews:</label>
+                    <input type="number" name="reviews" id="reviews" min="1" placeholder="Number of Reviews" required />
+                </div>
+
+                <div class="field">
+                    <label for="users">Users:</label>
+                    <input type="number" name="users" id="users" min="1" placeholder="Number of Users" required />
+                </div>
+
+                <div class="text">
+                    <label for="description">Description:</label>
+                    <textarea name="text" id="description" placeholder="Movie short description" maxlength="200" required></textarea>
+                </div>
+
+                <div class="imageDrop">
+                    <label for="poster">Poster</label>
+                    <div class="posterDrop" id="posterDiv"><img src="" id="posterImg"></div>
+                </div>
+
+                <div class="field">
+                    <label for="imageUrl">Poster URL:</label>
+                    <input type="url" name="imageUrl" id="imageUrl" placeholder="IMDB poster URL" required />
+                </div>
+
+                <p class="submit">
+                    <input id="sendButton" type="submit" value="Send" />
+                </p>
+            </form>
+        </div>
+        <div class="container" id="movies"></div>
+    </body>
+</html>

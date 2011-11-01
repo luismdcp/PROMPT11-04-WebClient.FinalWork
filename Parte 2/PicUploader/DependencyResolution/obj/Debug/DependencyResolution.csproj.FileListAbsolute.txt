@@ -1,0 +1,14 @@
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\DependencyResolution.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\DependencyResolution.pdb
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\PicUploader.DomainModel.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\Repositories.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\RepositoriesImplementation.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\StructureMap.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\PicUploader.DomainModel.pdb
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\RepositoriesImplementation.pdb
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\Repositories.pdb
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\StructureMap.pdb
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\bin\Debug\StructureMap.xml
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\obj\Debug\DependencyResolution.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\DependencyResolution\obj\Debug\DependencyResolution.pdb

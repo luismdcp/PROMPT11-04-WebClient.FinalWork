@@ -1,0 +1,5 @@
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\Repositories\bin\Debug\Repositories.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\Repositories\bin\Debug\Repositories.pdb
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\Repositories\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\Repositories\obj\Debug\Repositories.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\Repositories\obj\Debug\Repositories.pdb

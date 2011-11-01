@@ -1,0 +1,99 @@
+h4
+{
+    font-size: 15px;
+}
+.thumbnail
+{
+    max-width: 140px;
+    max-height: 210px
+}
+
+img
+{
+    width: 100%;
+    height: 100%
+}
+
+img, .metadata, .drawingContainer
+{
+    box-shadow: rgba(0,0,0,0.3) 0 1px 2px /* do site da apple */
+}
+
+.label
+{
+    font-size: 13px;
+    font-weight: 700;
+    color: #617798
+}
+
+.metadata
+{
+    font: 12px verdana, arial, sans-serif;
+    color: #666;
+    height: auto;
+    margin-left: 150px;
+    background: #FFF;
+    padding-left: 5px
+}
+
+.metadata, .drawingContainer
+{
+    border: 1px solid
+}
+
+.metadata, .drawingContainer, input, img
+{
+    border-radius: 4px
+}
+
+.metadata, .contentRating, .content
+{
+    padding-right: 5px
+}
+
+.metadata div
+{
+    padding-bottom: 5px
+}
+
+.contentRating
+{
+    float: right
+}
+
+.actorsInfo div
+{
+    display: inline
+}
+
+.rating, .datePublished, .dateModified
+{
+    border-bottom: 1px solid lightgray
+}
+
+.categories
+{
+    margin-top: 5px
+}
+
+.drawingContainer
+{
+    background: #f5f5f5;
+    width: 70%;
+    overflow: auto;
+    margin: 0 auto 5px;
+    padding: 5px
+}
+
+.thumbnail, label
+{
+    float: left;
+}
+
+label
+{
+    width: 150px;
+    text-align: right;
+    margin: 0 10px 0 0;
+    padding: 0
+}

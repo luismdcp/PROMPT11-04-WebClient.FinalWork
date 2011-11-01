@@ -1,0 +1,67 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:LinqPage.htm" caret="0" fromTop="0" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.js" caret="11" fromTop="0" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1376" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1963" fromTop="12" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1963" fromTop="12" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1963" fromTop="2" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:LinqPage.htm" caret="186" fromTop="8" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:LinqPage.htm" caret="127" fromTop="4" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1963" fromTop="17" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1963" fromTop="8" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1963" fromTop="15" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.js" caret="4502" fromTop="21" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1963" fromTop="30" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1963" fromTop="12" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1963" fromTop="26" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="848" fromTop="30" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1043" fromTop="36" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="276" fromTop="15" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="2237" fromTop="31" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="279" fromTop="17" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="141" fromTop="9" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="335" fromTop="15" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="670" fromTop="26" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="43" fromTop="2" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1517" fromTop="24" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1938" fromTop="37" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1923" fromTop="32" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="2045" fromTop="38" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="2323" fromTop="45" />
+      <File id="1824A7B8-48EA-4313-9099-F74708E62F82/f:Linq.coffee" caret="1948" fromTop="40" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="script" priority="5" />
+      <Item value="src" priority="5" />
+      <Item value="Linq.js" priority="5" />
+      <Item value="type" priority="5" />
+      <Item value="text/javascript" priority="5" />
+      <Item value="language" priority="5" />
+      <Item value="javascript" priority="5" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

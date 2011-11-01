@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Publish Image";
+}
+
+<div class="container">
+    <div class="hero-unit">
+        @using (Html.BeginForm("Publish", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="clearfix">
+                <label>Title</label>
+                <div class="input">
+                    <input type="text" id="Title" name="Title" />
+                </div>
+            </div>
+            <div class="clearfix">
+                <label>Image</label>
+                <div class="input">
+                    <input type="file" name="file" class="input-file" />
+                </div>
+            </div>
+            <div class="clearfix">
+                <label>Author</label>
+                <div class="input">
+                    <input type="text" id="Author" name="Author" />
+                </div>
+            </div>
+            <div class="clearfix">
+                <label>Category</label>
+                <div class="input">
+                    @Html.DropDownList("Category", new SelectList(ViewBag.Categories))
+                </div>
+            </div>
+            <div class="row">
+                <div class="span12">
+                    <canvas id="imageCanvas" width="500" height="500">
+                        <p>Oops! No canvas for you :)</p>
+                    </canvas>
+                </div>
+                <div class="span16">
+                    @Html.TextArea("imageBase64String")
+                </div>
+            </div>
+            <input type="submit" value="Upload" class="btn" />
+        }
+    </div>
+</div>

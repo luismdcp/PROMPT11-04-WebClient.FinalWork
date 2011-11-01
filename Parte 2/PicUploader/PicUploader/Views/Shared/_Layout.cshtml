@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title</title>
+        <script src="@Url.Content("~/Scripts/jquery-1.6.4.min.js")" type="text/javascript"></script>
+        <script src="@Url.Content("~/Scripts/modernizr-2.0.6-development-only.js")" type="text/javascript"></script>
+        <link href="@Url.Content("~/Content/themes/bootstrap-1.1.1.css")" rel="stylesheet" />
+        <script src="@Url.Content("~/Scripts/Canvas.js")"   type="text/javascript"></script>
+        <link href="@Url.Content("~/Content/StackStyle.css")" rel="stylesheet" type="text/css" />
+    </head>
+
+    <body>
+         <div class="topbar">
+            <div class="fill">
+                <div class="container">
+                    <h3>@Html.ActionLink("PicUploader", "Index")</h3>
+                    <ul>
+                        <li class="active">@Html.ActionLink("Home", "Index")</li>
+                        <li>@Html.ActionLink("Publish", "Publish")</li>
+                        <li>@Html.ActionLink("Last N Images", "Top")</li>
+                    </ul>
+
+                  @if (Request.IsAjaxRequest())
+                  {
+                      using (Ajax.BeginForm("Filter", "Home", new AjaxOptions { UpdateTargetId = "mainContainer" }))
+                      {
+                          <input type="text" placeholder="Search Title" id="TitleFilter" name="TitleFilter" />
+                          <button class="btn primary">Search</button>
+                      }
+                      
+                      using (Ajax.BeginForm("Top", "Home", new AjaxOptions { UpdateTargetId = "mainContainer" }))
+                      {
+                          <input type="number" name="TopFilter" id="TopFilter" min="1" step="1" />
+                          <button class="btn primary">Top</button>
+                      }
+                  }
+                  else
+                  {
+                      using (Html.BeginForm("Filter", "Home", FormMethod.Post))
+                      {
+                          <input type="text" placeholder="Search Title" id="TitleFilter" name="TitleFilter" />
+                          <button class="btn primary">Search</button>
+                      }
+
+                      using (Html.BeginForm("Top", "Home", FormMethod.Post))
+                      {
+                          <input type="number" name="TopFilter" id="TopFilter" min="1" step="1" />
+                          <button class="btn primary span2">Top</button>
+                      }
+                  }
+                </div>
+            </div>
+        </div>
+        @RenderBody()
+    </body>
+</html>

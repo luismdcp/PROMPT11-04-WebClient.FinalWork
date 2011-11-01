@@ -1,0 +1,7 @@
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader\bin\PicUploader.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader\bin\PicUploader.pdb
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader\bin\EntityFramework.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader\bin\EntityFramework.xml
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader\obj\Debug\PicUploader.dll
+C:\Users\BlackBeauty\WebstormProjects\untitled\PicUploader\PicUploader\obj\Debug\PicUploader.pdb

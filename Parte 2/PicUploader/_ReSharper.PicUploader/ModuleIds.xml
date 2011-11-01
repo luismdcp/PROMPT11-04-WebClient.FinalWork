@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="D31B8321-6AF8-48D4-8CE9-D004F4B01C9E" ModuleId="PicUploader" />
+  <Module PersistentId="9A388A6C-EE80-4A5F-AF87-5A5A43610E9F" ModuleId="PicUploader.DomainModel" />
+  <Module PersistentId="237D755D-A97D-42F8-92ED-5FBBDFC079BC" ModuleId="Repositories" />
+  <Module PersistentId="D2D02DDB-1C83-4B02-9151-4A3265A64B22" ModuleId="RepositoriesImplementation" />
+  <Module PersistentId="630B2AFD-0689-4CA2-AFE2-FA54863049E7" ModuleId="DependencyResolution" />
+</Modules>
